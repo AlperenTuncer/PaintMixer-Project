@@ -1,0 +1,22 @@
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\DatabaseConnections\bin\Debug\DatabaseConnections.dll
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\DatabaseConnections\bin\Debug\DatabaseConnections.pdb
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.dll
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\DatabaseConnections\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\DatabaseConnections\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\DatabaseConnections\bin\Debug\DatabaseConnections.dll
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\DatabaseConnections\bin\Debug\DatabaseConnections.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.csproj.AssemblyReference.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.csproj.CoreCompileInputs.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.dll
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\DatabaseConnections\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\DatabaseConnections\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\DatabaseConnections\obj\Debug\DatabaseConnections.pdb

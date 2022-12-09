@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginAndDatabase", "LoginAndDatabase\LoginAndDatabase.csproj", "{31A1C785-A414-4AB1-B420-A2AB2581329C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitirmeProjesi", "BitirmeProjesi\BitirmeProjesi\BitirmeProjesi.csproj", "{695600D6-29FD-437F-B666-B960EA6A0359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseConnections", "DatabaseConnections\DatabaseConnections.csproj", "{F800805C-0F0E-44D9-ABB3-B38C83F220F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cesar", "cesar\cesar.csproj", "{2BE1F382-A536-4D17-BE50-CF6BF09768AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terazi", "TeraziProses\Terazi\Terazi.csproj", "{FF67CDF0-91E2-4100-9422-4843882D586E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorLog", "ErrorLog\ErrorLog.csproj", "{5637789C-A862-4533-B429-C7FB064EF2D0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PaintMixer_Installer", "PaintMixer_Installer\PaintMixer_Installer.vdproj", "{6F980FA8-7984-40B2-AA71-6B24B6A01187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31A1C785-A414-4AB1-B420-A2AB2581329C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A1C785-A414-4AB1-B420-A2AB2581329C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A1C785-A414-4AB1-B420-A2AB2581329C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A1C785-A414-4AB1-B420-A2AB2581329C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{695600D6-29FD-437F-B666-B960EA6A0359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695600D6-29FD-437F-B666-B960EA6A0359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{695600D6-29FD-437F-B666-B960EA6A0359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695600D6-29FD-437F-B666-B960EA6A0359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F800805C-0F0E-44D9-ABB3-B38C83F220F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F800805C-0F0E-44D9-ABB3-B38C83F220F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F800805C-0F0E-44D9-ABB3-B38C83F220F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F800805C-0F0E-44D9-ABB3-B38C83F220F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE1F382-A536-4D17-BE50-CF6BF09768AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE1F382-A536-4D17-BE50-CF6BF09768AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE1F382-A536-4D17-BE50-CF6BF09768AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE1F382-A536-4D17-BE50-CF6BF09768AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF67CDF0-91E2-4100-9422-4843882D586E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF67CDF0-91E2-4100-9422-4843882D586E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF67CDF0-91E2-4100-9422-4843882D586E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF67CDF0-91E2-4100-9422-4843882D586E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5637789C-A862-4533-B429-C7FB064EF2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5637789C-A862-4533-B429-C7FB064EF2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5637789C-A862-4533-B429-C7FB064EF2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5637789C-A862-4533-B429-C7FB064EF2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F980FA8-7984-40B2-AA71-6B24B6A01187}.Debug|Any CPU.ActiveCfg = Debug
+		{6F980FA8-7984-40B2-AA71-6B24B6A01187}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B88F164-54C6-47E0-8DBC-C565F943B6AD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,241 @@
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.Properties.Resources.resources
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.YoneticiPaneli.resources
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.FormulaSettings.resources
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.StuffSettings.resources
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.ComponentSettings.resources
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\bin\Debug\LoginAndDatabase.exe
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\bin\Debug\LoginAndDatabase.pdb
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\source\repos\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CopyComplete
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.ComponentSettings.resources
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.FormulaSettings.resources
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.YoneticiPaneli.resources
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.StuffSettings.resources
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CopyComplete
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.dll
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.ComponentSettings.resources
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.FormulaSettings.resources
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.YoneticiPaneli.resources
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.StuffSettings.resources
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.Properties.Resources.resources
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CopyComplete
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.dll
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.dll
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.AssemblyReference.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.ComponentSettings.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.FormulaSettings.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.YoneticiPaneli.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.StuffSettings.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.Properties.Resources.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.GenerateResource.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CopyComplete
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.exe
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.dll
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.dll
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.AssemblyReference.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.ComponentSettings.resources
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.FormulaSettings.resources
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.YoneticiPaneli.resources
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.StuffSettings.resources
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.Properties.Resources.resources
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.GenerateResource.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CopyComplete
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.exe
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.dll
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.dll
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.ComponentSettings.resources
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.FormulaSettings.resources
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.LogForm.resources
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.YoneticiPaneli.resources
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.StuffSettings.resources
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CopyComplete
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.dll
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.ResolveComReference.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.ComponentSettings.resources
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.FormulaSettings.resources
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.LogForm.resources
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.YoneticiPaneli.resources
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.StuffSettings.resources
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.Properties.Resources.resources
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CopyComplete
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.dll
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.dll
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.dll
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.ComponentSettings.resources
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.FormulaSettings.resources
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.LogForm.resources
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.YoneticiPaneli.resources
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.StuffSettings.resources
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CopyComplete
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.ResolveComReference.cache
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.ComponentSettings.resources
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.FormulaSettings.resources
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.LogForm.resources
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.YoneticiPaneli.resources
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.StuffSettings.resources
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.Properties.Resources.resources
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CopyComplete
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.dll
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.dll
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.dll
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.AssemblyReference.cache
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.ResolveComReference.cache
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.ComponentSettings.resources
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.FormulaSettings.resources
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.LogForm.resources
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.YoneticiPaneli.resources
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.StuffSettings.resources
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.Properties.Resources.resources
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.GenerateResource.cache
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.exe
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.ResolveComReference.cache
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.ComponentSettings.resources
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.FormulaSettings.resources
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.LogForm.resources
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.YoneticiPaneli.resources
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.StuffSettings.resources
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.Properties.Resources.resources
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CopyComplete
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.ResolveComReference.cache
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.ComponentSettings.resources
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.FormulaSettings.resources
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.LogForm.resources
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.YoneticiPaneli.resources
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.StuffSettings.resources
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.Properties.Resources.resources
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.csproj.CopyComplete
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\BitirmeProjesi\BitirmeProjesi\obj\Debug\BitirmeProjesi.pdb

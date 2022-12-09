@@ -1,0 +1,11 @@
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\cesar\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\cesar\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\cesar\obj\Debug\cesar.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\cesar\obj\Debug\cesar.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\cesar\obj\Debug\cesar.dll
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\cesar\obj\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\cesar\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\cesar\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\cesar\obj\Debug\cesar.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\cesar\obj\Debug\cesar.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\cesar\obj\Debug\cesar.pdb

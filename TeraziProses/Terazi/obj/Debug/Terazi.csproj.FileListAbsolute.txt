@@ -1,0 +1,357 @@
+C:\Users\inter\source\repos\Terazi\Terazi\bin\Debug\Database1.mdf
+C:\Users\inter\source\repos\Terazi\Terazi\bin\Debug\Database1_log.ldf
+C:\Users\inter\source\repos\Terazi\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\inter\source\repos\Terazi\Terazi\bin\Debug\Terazi.exe
+C:\Users\inter\source\repos\Terazi\Terazi\bin\Debug\Terazi.pdb
+C:\Users\inter\source\repos\Terazi\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\inter\source\repos\Terazi\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\inter\source\repos\Terazi\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\inter\source\repos\Terazi\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\inter\source\repos\Terazi\Terazi\obj\Debug\Terazi.exe
+C:\Users\inter\source\repos\Terazi\Terazi\obj\Debug\Terazi.pdb
+C:\Users\inter\source\repos\Terazi\Terazi\obj\Debug\Terazi.Login.resources
+C:\Users\inter\source\repos\Terazi\Terazi\obj\Debug\Terazi.main.resources
+D:\Terazi\Terazi\bin\Debug\Database1.mdf
+D:\Terazi\Terazi\bin\Debug\Database1_log.ldf
+D:\Terazi\Terazi\bin\Debug\Terazi.exe.config
+D:\Terazi\Terazi\bin\Debug\Terazi.exe
+D:\Terazi\Terazi\bin\Debug\Terazi.pdb
+D:\Terazi\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+D:\Terazi\Terazi\obj\Debug\Terazi.csproj.SuggestedBindingRedirects.cache
+D:\Terazi\Terazi\obj\Debug\Terazi.Login.resources
+D:\Terazi\Terazi\obj\Debug\Terazi.main.resources
+D:\Terazi\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+D:\Terazi\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+D:\Terazi\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+D:\Terazi\Terazi\obj\Debug\Terazi.exe
+D:\Terazi\Terazi\obj\Debug\Terazi.pdb
+D:\Terazi\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+D:\Terazi-Prototip\Terazi\bin\Debug\Database1.mdf
+D:\Terazi-Prototip\Terazi\bin\Debug\Database1_log.ldf
+D:\Terazi-Prototip\Terazi\bin\Debug\Terazi.exe.config
+D:\Terazi-Prototip\Terazi\bin\Debug\Terazi.exe.manifest
+D:\Terazi-Prototip\Terazi\bin\Debug\Terazi.application
+D:\Terazi-Prototip\Terazi\bin\Debug\Terazi.exe
+D:\Terazi-Prototip\Terazi\bin\Debug\Terazi.pdb
+D:\Terazi-Prototip\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+D:\Terazi-Prototip\Terazi\obj\Debug\Terazi.csproj.SuggestedBindingRedirects.cache
+D:\Terazi-Prototip\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+D:\Terazi-Prototip\Terazi\obj\Debug\Terazi.Login.resources
+D:\Terazi-Prototip\Terazi\obj\Debug\Terazi.main.resources
+D:\Terazi-Prototip\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+D:\Terazi-Prototip\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+D:\Terazi-Prototip\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+D:\Terazi-Prototip\Terazi\obj\Debug\Terazi.exe.manifest
+D:\Terazi-Prototip\Terazi\obj\Debug\Terazi.application
+D:\Terazi-Prototip\Terazi\obj\Debug\Terazi.exe
+D:\Terazi-Prototip\Terazi\obj\Debug\Terazi.pdb
+E:\Terazi-Prototip\Terazi\bin\Debug\Database1.mdf
+E:\Terazi-Prototip\Terazi\bin\Debug\Database1_log.ldf
+E:\Terazi-Prototip\Terazi\bin\Debug\Terazi.exe.config
+E:\Terazi-Prototip\Terazi\bin\Debug\Terazi.exe.manifest
+E:\Terazi-Prototip\Terazi\bin\Debug\Terazi.application
+E:\Terazi-Prototip\Terazi\bin\Debug\Terazi.exe
+E:\Terazi-Prototip\Terazi\bin\Debug\Terazi.pdb
+E:\Terazi-Prototip\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+E:\Terazi-Prototip\Terazi\obj\Debug\Terazi.csproj.SuggestedBindingRedirects.cache
+E:\Terazi-Prototip\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+E:\Terazi-Prototip\Terazi\obj\Debug\Terazi.Login.resources
+E:\Terazi-Prototip\Terazi\obj\Debug\Terazi.main.resources
+E:\Terazi-Prototip\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+E:\Terazi-Prototip\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+E:\Terazi-Prototip\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+E:\Terazi-Prototip\Terazi\obj\Debug\Terazi.exe.manifest
+E:\Terazi-Prototip\Terazi\obj\Debug\Terazi.application
+E:\Terazi-Prototip\Terazi\obj\Debug\Terazi.exe
+E:\Terazi-Prototip\Terazi\obj\Debug\Terazi.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Database1.mdf
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Database1_log.ldf
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.manifest
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.application
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Login.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.main.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe.manifest
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.application
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Database1.mdf
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Database1_log.ldf
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.manifest
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.application
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Login.resources
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.main.resources
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe.manifest
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.application
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CopyComplete
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.manifest
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.application
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.pdb
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.dll
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.pdb
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.main.resources
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe.manifest
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.application
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CopyComplete
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.manifest
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.application
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.main.resources
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe.manifest
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.application
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CopyComplete
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.manifest
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.application
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.dll
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.main.resources
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe.manifest
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.application
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CopyComplete
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.manifest
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.application
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.dll
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.main.resources
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe.manifest
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.application
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CopyComplete
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.dll
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.pdb
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.manifest
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.application
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.pdb
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.dll
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.dll
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.pdb
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.pdb
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.main.resources
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe.manifest
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.application
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CopyComplete
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.manifest
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.application
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.main.resources
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe.manifest
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.application
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CopyComplete
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.manifest
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.application
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.dll
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.dll
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.main.resources
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe.manifest
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.application
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CopyComplete
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.main.resources
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.manifest
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.application
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe.manifest
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.application
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CopyComplete
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.manifest
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.application
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.dll
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.dll
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.main.resources
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe.manifest
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.application
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CopyComplete
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.manifest
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.application
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.main.resources
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe.manifest
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.application
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CopyComplete
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.ResolveComReference.cache
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.main.resources
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.Properties.Resources.resources
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.config
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe.manifest
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.application
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.exe.manifest
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.application
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\TeraziProses\Terazi\obj\Debug\Terazi.csproj.CopyComplete

@@ -1,0 +1,8 @@
+
+ Date : 30.04.2022 10:40:14
+ Source : System
+ Message : Bağlantı noktası zaten açık.
+ String : System.InvalidOperationException: Bağlantı noktası zaten açık.
+   konum: System.IO.Ports.SerialPort.Open()
+   konum: Terazi.main.portislem() D:\Terazi-Prototip\Terazi\Form2.cs içinde: satır 290
+

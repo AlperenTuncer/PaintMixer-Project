@@ -1,0 +1,11 @@
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\ErrorLog\bin\Debug\ErrorLog.dll
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\ErrorLog\bin\Debug\ErrorLog.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\ErrorLog\obj\Debug\ErrorLog.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\ErrorLog\obj\Debug\ErrorLog.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\ErrorLog\obj\Debug\ErrorLog.dll
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\ErrorLog\obj\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\ErrorLog\bin\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\ErrorLog\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\ErrorLog\obj\Debug\ErrorLog.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\ErrorLog\obj\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\ErrorLog\obj\Debug\ErrorLog.pdb

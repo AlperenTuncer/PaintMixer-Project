@@ -1,0 +1,40 @@
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.csproj.AssemblyReference.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.ScaleProcess.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.Properties.Resources.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.csproj.GenerateResource.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.csproj.CoreCompileInputs.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\ScaleProcess.exe.config
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\ScaleProcess.exe
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\ScaleProcess.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\DatabaseConnections.dll
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\DatabaseConnections.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.csproj.CopyComplete
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.exe
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\ScaleProcess.exe.config
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\ScaleProcess.exe
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\ScaleProcess.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.ScaleProcess.resources
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.Properties.Resources.resources
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.csproj.CopyComplete
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.exe
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\ScaleProcess.exe.config
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\ScaleProcess.exe
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\ScaleProcess.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\DatabaseConnections.dll
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\bin\Debug\DatabaseConnections.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.csproj.AssemblyReference.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.ScaleProcess.resources
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.Properties.Resources.resources
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.csproj.GenerateResource.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.csproj.CoreCompileInputs.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.csproj.CopyComplete
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.exe
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\ScaleProcess\obj\Debug\ScaleProcess.pdb

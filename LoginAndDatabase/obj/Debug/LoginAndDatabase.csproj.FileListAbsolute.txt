@@ -1,0 +1,400 @@
+C:\Users\doguk\source\repos\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\doguk\source\repos\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\source\repos\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\doguk\source\repos\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\doguk\source\repos\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\doguk\source\repos\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\doguk\source\repos\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\doguk\source\repos\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\doguk\source\repos\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\doguk\source\repos\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\source\repos\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\doguk\source\repos\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.MainPage.resources
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.MainPage.resources
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.MainPage.resources
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\Kullanıcı\Desktop\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.MainPage.resources
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\Yeni klasör\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.MainPage.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\paintmixer.mdf
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\paintmixer_log.ldf
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Database1.mdf
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Database1_log.ldf
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.exe
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.exe.config
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.pdb
+C:\Users\Emircan\Desktop\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe.config
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Database1.mdf
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Database1_log.ldf
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\paintmixer.mdf
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\paintmixer_log.ldf
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.exe
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.exe.config
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe.config
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.MainPage.resources
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\paintmixer.mdf
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\paintmixer_log.ldf
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.exe
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.pdb
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.exe.config
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.pdb
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe.config
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.MainPage.resources
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\Kullanıcı\Desktop\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.exe
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.pdb
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.exe.config
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe.config
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.MainPage.resources
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.exe
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\ScaleProcess.exe.config
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.pdb
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe.config
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.MainPage.resources
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\inter\Desktop\proj\Proje (2)\Proje (2)\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe.config
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.dll
+C:\Users\Kullanıcı\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.pdb
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.dll
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.pdb
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.pdb
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe.config
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\Emircan\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe.config
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.dll
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.pdb
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe.config
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\Kullanıcı\Desktop\cd atılcaklar\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe.config
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.dll
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.pdb
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe.config
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\inter\Desktop\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe.config
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\Project (2) (1)\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe.config
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\LoginAndDatabase.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.dll
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.dll
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.dll
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\BitirmeProjesi.exe.config
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\cesar.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\DatabaseConnections.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\ErrorLog.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.pdb
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\bin\Debug\Terazi.exe.config
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.AssemblyReference.cache
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.DatabaseSettings.resources
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Login.resources
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.Properties.Resources.resources
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.GenerateResource.cache
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.csproj.CopyComplete
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.exe
+C:\Users\doguk\Desktop\Sunum\Project (2)\Project\LoginAndDatabase\LoginAndDatabase\obj\Debug\LoginAndDatabase.pdb
